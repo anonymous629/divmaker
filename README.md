@@ -1,4 +1,4 @@
-# Multispectral Self-Supervised Learning with Viewmaker Networks
+# Multispectral Contrastive Learning with Viewmaker Networks
 
 ## 0) Background
 
